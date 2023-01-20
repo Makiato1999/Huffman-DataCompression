@@ -1,1 +1,1 @@
-# HuffmanTrees-DataCompression
+# Huffman-DataCompression
